@@ -16,7 +16,7 @@ body, html {
 	margin: 0;
 	padding: 0;
 	width: 100%
-	overflow: hidden;
+	/* overflow: hidden; */
 }
 
 /* Fullscreen video styling */
@@ -135,9 +135,9 @@ video {
 	padding: 15px 30px;
 }
 
-.backgroundVideo{
+/* .backgroundVideo{
 	
-}
+} */
 
 /* Animations */
 @keyframes fadeIn {
