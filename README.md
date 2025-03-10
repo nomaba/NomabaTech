@@ -1,1 +1,1 @@
-Why have a read me when you can read the code
+Why have a read me when the code isnt for you to read
