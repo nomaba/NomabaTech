@@ -66,12 +66,14 @@ video {
 	/*will-change: transform;*/ /* Optimize for transform changes */
 }
 
-/* Hover Animation */
+/*
+/* Hover Animation *
 .animate-btn:hover {
 	animation: none;
-	transform: scale(1.1); /* Grow button */
-	transition: transform 0.3s ease; /* Smooth hover scaling */
-}
+	transform: scale(1.1); /* Grow button *
+	transition: transform 0.3s ease; /* Smooth hover scaling *
+} 
+*/
 
 /* Info Box */
 .headerBox {
